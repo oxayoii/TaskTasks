@@ -40,7 +40,22 @@
 
         static async Task Main(string[] args)
         {
-          
+            // Запускаем несколько задач, которые одновременно увеличивают счетчик
+            var tasks = new Task[]
+            {
+                Server.AddToCount(10),
+                Server.AddToCount(20),
+                Server.AddToCount(30),
+            };
+
+            await Task.WhenAll(tasks);
+
+            int currentCount = await Server.GetCount();
+            Console.WriteLine($"Общее значение счётчика после параллельных операций: {currentCount}");
+
+            // Демонстрация асинхронных вызовов
+            int value = await Server.GetCount();
+            Console.WriteLine($"Текущее значение счётчика: {value}");
         }
     }
 }
