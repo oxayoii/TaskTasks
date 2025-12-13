@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\\u041A\u0430\u0442\u044F\\Desktop\\Test\\Task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3306B771-033B-4A53-A5B0-45C8EE6FC344}|Task3.csproj|c:\\users\\\u043A\u0430\u0442\u044F\\desktop\\test\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3306B771-033B-4A53-A5B0-45C8EE6FC344}|Task3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2598591E-C6BF-4FC2-9FF6-AC1779CA8117}|..\\TestProjectTask3\\TestProjectTask3.csproj|c:\\users\\\u043A\u0430\u0442\u044F\\desktop\\test\\testprojecttask3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3306B771-033B-4A53-A5B0-45C8EE6FC344}|Task3.csproj|c:\\users\\\u043A\u0430\u0442\u044F\\desktop\\test\\task3\\program_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3306B771-033B-4A53-A5B0-45C8EE6FC344}|Task3.csproj|solutionrelative:program_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +26,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0430\u0442\u044F\\Desktop\\Test\\Task3\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0430\u0442\u044F\\Desktop\\Test\\Task3\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAowIAAAAAAAAAAAAAAAA==",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0430\u0442\u044F\\Desktop\\Test\\TestProjectTask3\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProjectTask3\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0430\u0442\u044F\\Desktop\\Test\\TestProjectTask3\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProjectTask3\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T13:47:06.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program_.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0430\u0442\u044F\\Desktop\\Test\\Task3\\Program_.cs",
+              "RelativeDocumentMoniker": "Program_.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0430\u0442\u044F\\Desktop\\Test\\Task3\\Program_.cs",
+              "RelativeToolTip": "Program_.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T17:44:24.327Z",
               "EditorCaption": ""
